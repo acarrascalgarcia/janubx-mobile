@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:my_demo/screens/transactions/components/transaction.dart';
+import 'package:janubx/screens/transactions/components/transaction.dart';
 
 class TransactionsScreen extends StatelessWidget {
   @override

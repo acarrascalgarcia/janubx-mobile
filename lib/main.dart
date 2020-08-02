@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:my_demo/screens/tab/tab.dart';
+import 'package:janubx/screens/tab/tab.dart';
 
 void main() => runApp(JanubxApp());
 

@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:my_demo/screens/drawer/drawer.dart';
-import 'package:my_demo/screens/summary/summary-screen.dart';
-import 'package:my_demo/screens/transactions/transactions-screen.dart';
+import 'package:janubx/screens/drawer/drawer.dart';
+import 'package:janubx/screens/summary/summary-screen.dart';
+import 'package:janubx/screens/transactions/transactions-screen.dart';
 
 class NavTab extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    var navDrawer = NavDrawer();
+    final navDrawer = NavDrawer();
     return DefaultTabController(
       length: 2,
       child: new Scaffold(
