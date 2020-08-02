@@ -1,1 +1,1 @@
-# janubx-mobile
+# Janub X - Mobile
