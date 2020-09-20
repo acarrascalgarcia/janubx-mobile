@@ -1,4 +1,4 @@
 # Janub X - Mobile
 
-The server side for a personal project.
+The mobile app for a personal project.
 
